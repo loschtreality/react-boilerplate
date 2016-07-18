@@ -1,4 +1,4 @@
-# Timer/Stopwatch React App
+# React Boilerplate
 
 
-A React Timer/Stopwatch app which enables countdowns and timings. Some of the modules used in this project may need to be updated.
+A React Boilerplate which serves as a starting point for any react project. Some of the modules used in this project may need to be updated.
